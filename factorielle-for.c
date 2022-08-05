@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-void main()
+int main()
 {
   int x, i, fac ;
   printf("! programme qui calcul la foctorille d'un nombre X!! \n");
